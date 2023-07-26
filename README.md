@@ -1,4 +1,8 @@
-### Hi there 👋
+```rust
+fn main() {
+    println!("Hi there 👋");
+}
+```
 
 ```
  _                    _                            _       
